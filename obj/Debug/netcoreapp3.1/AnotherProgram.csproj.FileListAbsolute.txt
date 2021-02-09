@@ -1,0 +1,12 @@
+/Users/penn/Projects/AnotherProgram/bin/Debug/netcoreapp3.1/AnotherProgram.deps.json
+/Users/penn/Projects/AnotherProgram/bin/Debug/netcoreapp3.1/AnotherProgram.runtimeconfig.json
+/Users/penn/Projects/AnotherProgram/bin/Debug/netcoreapp3.1/AnotherProgram.runtimeconfig.dev.json
+/Users/penn/Projects/AnotherProgram/bin/Debug/netcoreapp3.1/AnotherProgram.dll
+/Users/penn/Projects/AnotherProgram/bin/Debug/netcoreapp3.1/AnotherProgram.pdb
+/Users/penn/Projects/AnotherProgram/obj/Debug/netcoreapp3.1/AnotherProgram.csprojAssemblyReference.cache
+/Users/penn/Projects/AnotherProgram/obj/Debug/netcoreapp3.1/AnotherProgram.AssemblyInfoInputs.cache
+/Users/penn/Projects/AnotherProgram/obj/Debug/netcoreapp3.1/AnotherProgram.AssemblyInfo.cs
+/Users/penn/Projects/AnotherProgram/obj/Debug/netcoreapp3.1/AnotherProgram.csproj.CoreCompileInputs.cache
+/Users/penn/Projects/AnotherProgram/obj/Debug/netcoreapp3.1/AnotherProgram.dll
+/Users/penn/Projects/AnotherProgram/obj/Debug/netcoreapp3.1/AnotherProgram.pdb
+/Users/penn/Projects/AnotherProgram/obj/Debug/netcoreapp3.1/AnotherProgram.genruntimeconfig.cache
